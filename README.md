@@ -3,7 +3,7 @@ This is temporary file for testing.
 
 
 #Teacher
-Dr.N.M.Patel sir
+Shradha Mam
 
 #Student
 Vraj Prajapati
